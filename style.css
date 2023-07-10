@@ -1,0 +1,13 @@
+.container {
+    width: 600px;
+    height: 100vh;
+    padding: 0px;
+}
+#chatbox{
+    overflow-y: scroll;
+    height: 550px;
+    /* vertical-align: bottom; */
+    display: flex;
+    /* justify-content: flex-end; */
+    flex-direction: column;
+}
